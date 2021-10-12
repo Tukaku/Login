@@ -1,0 +1,25 @@
+div.container {
+        padding: 0%;
+        width: 20rem;
+        position: fixed;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+}
+body {
+    background-color: rgb(34, 34, 33);
+}
+h2 {
+    color: azure;
+    text-align: center;
+}
+label.form-label {
+    padding: 10px;
+}
+label.form-check-label {
+    padding: 10px;
+}
+footer {
+    text-align: center;
+    margin: 35px;
+}
